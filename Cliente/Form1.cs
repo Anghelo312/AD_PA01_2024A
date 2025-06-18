@@ -1,10 +1,11 @@
 ﻿
+//
 using System;
 using System.Linq;
 using System.Security.Cryptography;
 using System.Windows.Forms;
 using Protocolo;
-//
+
 namespace Cliente
 {
     public partial class FrmValidador : Form
